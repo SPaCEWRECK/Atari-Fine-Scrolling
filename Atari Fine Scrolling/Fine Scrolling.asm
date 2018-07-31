@@ -1,4 +1,4 @@
-05 ;
+05 ;blah blah blah
 10 ;
 20 ;HELLO SCREEN (FINE)
 30 ;
